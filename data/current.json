@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-05T05:45:12.303Z",
-  "fechaLocal": "5/10/2026, 7:45:12",
+  "timestamp": "2026-10-05T05:50:12.406Z",
+  "fechaLocal": "5/10/2026, 7:50:12",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,12 +17,12 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-10-05T05:41:39.000+00:00",
-        "plantLocalTime": "2026-10-05 07:41:39",
+        "dataTime": "2026-10-05T05:46:39.000+00:00",
+        "plantLocalTime": "2026-10-05 07:46:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
         "acCurrent1": 0,
-        "acVoltage1": 240.5,
+        "acVoltage1": 240.1,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
@@ -38,10 +38,10 @@
         "dailyYield": 0,
         "totalYield": 8549.5,
         "mpptMap": {
-          "MPPT2Voltage": 92.3,
+          "MPPT2Voltage": 0,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 0,
+          "MPPT1Voltage": 88.7,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,20 +64,20 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50,
+        "acFrequency1": 50.01,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -219
+        "gridPower": -294
       }
     ],
-    "traceId": "4d536362-92da-4eb3-8503-cd5af21a24d9.1791179112459"
+    "traceId": "27492a0e-2888-468d-bc49-62e38cb8242b.1791179412567"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-10-05T05:41:39.000+00:00",
-        "plantLocalTime": "2026-10-05 07:41:39",
+        "dataTime": "2026-10-05T05:46:39.000+00:00",
+        "plantLocalTime": "2026-10-05 07:46:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
@@ -93,6 +93,6 @@
         "batteryRemainings": 0.5
       }
     ],
-    "traceId": "acbf4e9a-d3e7-4edc-8008-bf5ed403ae5b.1791179112587"
+    "traceId": "f847e0d7-2834-42ab-9690-8cc22e6d513f.1791179412711"
   }
 }

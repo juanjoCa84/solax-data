@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-10T05:45:12.433Z",
-  "fechaLocal": "10/10/2026, 7:45:12",
+  "timestamp": "2026-10-10T05:50:12.341Z",
+  "fechaLocal": "10/10/2026, 7:50:12",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,12 +17,12 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-10-10T05:41:40.000+00:00",
-        "plantLocalTime": "2026-10-10 07:41:40",
+        "dataTime": "2026-10-10T05:46:39.000+00:00",
+        "plantLocalTime": "2026-10-10 07:46:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
         "acCurrent1": 0,
-        "acVoltage1": 239.3,
+        "acVoltage1": 238.5,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
@@ -38,10 +38,10 @@
         "dailyYield": 0,
         "totalYield": 8662.2,
         "mpptMap": {
-          "MPPT2Voltage": 89.1,
+          "MPPT2Voltage": 0,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 0,
+          "MPPT1Voltage": 84.3,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,20 +64,20 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50,
+        "acFrequency1": 50.03,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -177
+        "gridPower": -156
       }
     ],
-    "traceId": "e049b0f1-2e5e-442b-b830-850b6bab7a9e.1791611114145"
+    "traceId": "7719c88f-51da-4df9-9b3d-828fc5faafc4.1791611414067"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-10-10T05:41:40.000+00:00",
-        "plantLocalTime": "2026-10-10 07:41:40",
+        "dataTime": "2026-10-10T05:46:39.000+00:00",
+        "plantLocalTime": "2026-10-10 07:46:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
@@ -93,6 +93,6 @@
         "batteryRemainings": 0.4
       }
     ],
-    "traceId": "d83c9900-9324-489c-bfbb-e69ed051332f.1791611114292"
+    "traceId": "7e734552-d7e3-495d-8e78-bcd2de6351eb.1791611414205"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-11T18:15:12.376Z",
-  "fechaLocal": "11/10/2026, 20:15:12",
+  "timestamp": "2026-10-11T18:20:12.430Z",
+  "fechaLocal": "11/10/2026, 20:20:12",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,12 +17,12 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-10-11T18:11:39.000+00:00",
-        "plantLocalTime": "2026-10-11 20:11:39",
+        "dataTime": "2026-10-11T18:16:39.000+00:00",
+        "plantLocalTime": "2026-10-11 20:16:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
-        "acCurrent1": 1.7,
-        "acVoltage1": 242.6,
+        "acCurrent1": 1.8,
+        "acVoltage1": 241.5,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
@@ -38,10 +38,10 @@
         "dailyYield": 20.3,
         "totalYield": 8709.9,
         "mpptMap": {
-          "MPPT2Voltage": 0,
+          "MPPT2Voltage": 90.7,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 107.3,
+          "MPPT1Voltage": 88,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,28 +64,28 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50.03,
+        "acFrequency1": 49.98,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": 128
+        "gridPower": 120
       }
     ],
-    "traceId": "db43be51-7b82-405b-b4eb-af758408af10.1791742516471"
+    "traceId": "acfb2bd3-969d-47df-8f5b-9e078f0daaa3.1791742816531"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-10-11T18:11:39.000+00:00",
-        "plantLocalTime": "2026-10-11 20:11:39",
+        "dataTime": "2026-10-11T18:16:39.000+00:00",
+        "plantLocalTime": "2026-10-11 20:16:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
-        "batterySOC": 57,
+        "batterySOC": 56,
         "batterySOH": 97,
-        "chargeDischargePower": -563,
+        "chargeDischargePower": -555,
         "batteryVoltage": 52.3,
-        "batteryCurrent": -10.7,
+        "batteryCurrent": -10.6,
         "batteryTemperature": 28,
         "batteryCycleTimes": 367,
         "totalDeviceDischarge": 1424.6,
@@ -93,6 +93,6 @@
         "batteryRemainings": 3
       }
     ],
-    "traceId": "5be44faf-02a7-4574-b970-d8cb89b75692.1791742516611"
+    "traceId": "e2652856-416b-4c13-8e7e-6b04ab4012d1.1791742816667"
   }
 }

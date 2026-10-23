@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T06:10:12.845Z",
-  "fechaLocal": "23/10/2026, 8:10:12",
+  "timestamp": "2026-10-23T06:15:12.935Z",
+  "fechaLocal": "23/10/2026, 8:15:12",
   "inverter": {
     "code": 10000,
     "result": [
       {
         "deviceStatus": 102,
-        "todayImportEnergy": 24.2,
-        "totalImportEnergy": 7465.4,
+        "todayImportEnergy": 24.3,
+        "totalImportEnergy": 7465.5,
         "todayExportEnergy": 0,
         "totalExportEnergy": 4877,
         "gridPowerM2": 0,
@@ -17,8 +17,8 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-10-23T06:06:40.000+00:00",
-        "plantLocalTime": "2026-10-23 08:06:40",
+        "dataTime": "2026-10-23T06:11:39.000+00:00",
+        "plantLocalTime": "2026-10-23 08:11:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
         "acCurrent1": 0,
@@ -41,7 +41,7 @@
           "MPPT2Voltage": 0,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 0,
+          "MPPT1Voltage": 121.8,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,20 +64,20 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50,
+        "acFrequency1": 49.98,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -423
+        "gridPower": -387
       }
     ],
-    "traceId": "0e28ee68-bcf1-434c-9c0a-2c0a0b06ed20.1792735816715"
+    "traceId": "a42139d1-5545-47e7-ba39-e8750cfa51fc.1792736116811"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-10-23T06:06:40.000+00:00",
-        "plantLocalTime": "2026-10-23 08:06:40",
+        "dataTime": "2026-10-23T06:11:39.000+00:00",
+        "plantLocalTime": "2026-10-23 08:11:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
@@ -93,6 +93,6 @@
         "batteryRemainings": 0.3
       }
     ],
-    "traceId": "195fdaef-ca54-49a5-9018-db4d6d19038f.1792735816849"
+    "traceId": "ff3cce46-01db-47e2-99c9-f80a1fad09cb.1792736116933"
   }
 }

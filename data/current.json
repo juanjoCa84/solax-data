@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-07T17:30:01.732Z",
-  "fechaLocal": "7/11/2026, 18:30:01",
+  "timestamp": "2026-11-07T17:35:02.000Z",
+  "fechaLocal": "7/11/2026, 18:35:02",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,8 +17,8 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-11-07T17:26:39.000+00:00",
-        "plantLocalTime": "2026-11-07 18:26:39",
+        "dataTime": "2026-11-07T17:31:39.000+00:00",
+        "plantLocalTime": "2026-11-07 18:31:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
         "acCurrent1": 1.5,
@@ -38,10 +38,10 @@
         "dailyYield": 19.6,
         "totalYield": 9249.6,
         "mpptMap": {
-          "MPPT2Voltage": 226.8,
+          "MPPT2Voltage": 170.8,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 127.2,
+          "MPPT1Voltage": 93.4,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,35 +64,35 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50,
+        "acFrequency1": 49.97,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": 99
+        "gridPower": 95
       }
     ],
-    "traceId": "8ee25f91-8555-4afc-a333-bfba27d1b116.1794072602483"
+    "traceId": "51e54509-b75d-4932-9688-1e8086e8e963.1794072902712"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-11-07T17:26:39.000+00:00",
-        "plantLocalTime": "2026-11-07 18:26:39",
+        "dataTime": "2026-11-07T17:31:39.000+00:00",
+        "plantLocalTime": "2026-11-07 18:31:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
-        "batterySOC": 21,
+        "batterySOC": 20,
         "batterySOH": 97,
-        "chargeDischargePower": -472,
-        "batteryVoltage": 51.6,
-        "batteryCurrent": -9.1,
+        "chargeDischargePower": -468,
+        "batteryVoltage": 51.5,
+        "batteryCurrent": -9,
         "batteryTemperature": 23,
         "batteryCycleTimes": 399,
-        "totalDeviceDischarge": 1550.4,
+        "totalDeviceDischarge": 1550.5,
         "totalDeviceCharge": 1750,
-        "batteryRemainings": 1.1
+        "batteryRemainings": 1
       }
     ],
-    "traceId": "764ff4e7-2f3e-49fb-8332-9026c3df56d2.1794072602640"
+    "traceId": "01ef097b-1480-4314-8680-c1b1e7331855.1794072902920"
   }
 }

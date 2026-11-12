@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T13:05:02.648Z",
-  "fechaLocal": "12/11/2026, 14:05:02",
+  "timestamp": "2026-11-12T13:15:01.391Z",
+  "fechaLocal": "12/11/2026, 14:15:01",
   "inverter": {
     "code": 10000,
     "result": [
       {
         "deviceStatus": 102,
-        "todayImportEnergy": 30.9,
-        "totalImportEnergy": 7986.1,
+        "todayImportEnergy": 31,
+        "totalImportEnergy": 7986.2,
         "todayExportEnergy": 4.4,
         "totalExportEnergy": 5002.5,
         "gridPowerM2": 0,
@@ -17,33 +17,33 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-11-12T13:01:40.000+00:00",
-        "plantLocalTime": "2026-11-12 14:01:40",
+        "dataTime": "2026-11-12T13:11:40.000+00:00",
+        "plantLocalTime": "2026-11-12 14:11:40",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
-        "acCurrent1": 4.2,
-        "acVoltage1": 240.3,
+        "acCurrent1": 3,
+        "acVoltage1": 238.4,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
         "acVoltage3": null,
-        "acPower1": 1015,
+        "acPower1": 722,
         "acPower2": null,
         "acPower3": null,
         "gridFrequency": null,
         "totalPowerFactor": 0.97,
-        "inverterTemperature": 43,
-        "dailyACOutput": 5.6,
-        "totalACOutput": 9075.8,
-        "dailyYield": 7.5,
-        "totalYield": 9281.7,
+        "inverterTemperature": 45,
+        "dailyACOutput": 5.8,
+        "totalACOutput": 9076,
+        "dailyYield": 7.7,
+        "totalYield": 9281.9,
         "mpptMap": {
-          "MPPT2Voltage": 330.1,
-          "MPPT1Current": 1.6,
-          "MPPT2Current": 2,
-          "MPPT1Voltage": 170.7,
-          "MPPT1Power": 277,
-          "MPPT2Power": 682
+          "MPPT2Voltage": 326,
+          "MPPT1Current": 1.1,
+          "MPPT2Current": 1.4,
+          "MPPT1Voltage": 172.5,
+          "MPPT1Power": 190,
+          "MPPT2Power": 476
         },
         "pvMap": {},
         "EPSL1Voltage": null,
@@ -63,28 +63,28 @@
         "l1l3Voltage": null,
         "totalReactivePower": null,
         "totalActivePower": null,
-        "MPPTTotalInputPower": 959,
-        "acFrequency1": 50.04,
+        "MPPTTotalInputPower": 666,
+        "acFrequency1": 49.98,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -1041
+        "gridPower": -1319
       }
     ],
-    "traceId": "afee25eb-5001-4b08-ad93-53ecc7e10cba.1794488703127"
+    "traceId": "5d219df2-5909-42e1-93b5-12bfd2a4b35b.1794489301897"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-11-12T13:01:40.000+00:00",
-        "plantLocalTime": "2026-11-12 14:01:40",
+        "dataTime": "2026-11-12T13:11:40.000+00:00",
+        "plantLocalTime": "2026-11-12 14:11:40",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
         "batterySOC": 100,
         "batterySOH": 97,
         "chargeDischargePower": -56,
-        "batteryVoltage": 55.2,
+        "batteryVoltage": 54.6,
         "batteryCurrent": -1,
         "batteryTemperature": 22,
         "batteryCycleTimes": 404,
@@ -93,6 +93,6 @@
         "batteryRemainings": 5.3
       }
     ],
-    "traceId": "f616711b-6534-4a39-83bf-60fc94b98f98.1794488703295"
+    "traceId": "6490ed4b-e335-4201-88fc-7ba9be900389.1794489302040"
   }
 }

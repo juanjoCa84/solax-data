@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-23T23:40:02.243Z",
-  "fechaLocal": "24/11/2026, 0:40:02",
+  "timestamp": "2026-11-23T23:45:02.207Z",
+  "fechaLocal": "24/11/2026, 0:45:02",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,17 +17,17 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-11-23T23:36:40.000+00:00",
-        "plantLocalTime": "2026-11-24 00:36:40",
+        "dataTime": "2026-11-23T23:41:40.000+00:00",
+        "plantLocalTime": "2026-11-24 00:41:40",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
-        "acCurrent1": 0,
-        "acVoltage1": 242.3,
+        "acCurrent1": -2.1,
+        "acVoltage1": 241.8,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
         "acVoltage3": null,
-        "acPower1": 0,
+        "acPower1": -511,
         "acPower2": null,
         "acPower3": null,
         "gridFrequency": null,
@@ -67,32 +67,32 @@
         "acFrequency1": 49.99,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -333
+        "gridPower": -960
       }
     ],
-    "traceId": "edd7c67f-5ec0-4769-a3e0-bac56a970e93.1795477202760"
+    "traceId": "ea1cea08-bbf7-4a32-9e16-aa2b99cab7a8.1795477502729"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-11-23T23:36:40.000+00:00",
-        "plantLocalTime": "2026-11-24 00:36:40",
+        "dataTime": "2026-11-23T23:41:40.000+00:00",
+        "plantLocalTime": "2026-11-24 00:41:40",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
-        "batterySOC": 9,
+        "batterySOC": 8,
         "batterySOH": 96,
-        "chargeDischargePower": 0,
-        "batteryVoltage": 51.2,
-        "batteryCurrent": 0,
-        "batteryTemperature": 22,
+        "chargeDischargePower": 511,
+        "batteryVoltage": 51.3,
+        "batteryCurrent": 9.9,
+        "batteryTemperature": 21,
         "batteryCycleTimes": 417,
         "totalDeviceDischarge": 1618.2,
         "totalDeviceCharge": 1830.2,
         "batteryRemainings": 0.4
       }
     ],
-    "traceId": "21b5e895-0f69-48bc-a337-e251fd2e1540.1795477202939"
+    "traceId": "5550ffc7-ab6f-45b5-8667-6649ee8abef7.1795477502918"
   }
 }

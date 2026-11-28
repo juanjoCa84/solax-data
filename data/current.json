@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-28T16:20:02.709Z",
-  "fechaLocal": "28/11/2026, 17:20:02",
+  "timestamp": "2026-11-28T16:25:01.714Z",
+  "fechaLocal": "28/11/2026, 17:25:01",
   "inverter": {
     "code": 10000,
     "result": [
@@ -17,12 +17,12 @@
         "totalExportEnergyM2": 0,
         "totalACInput": null,
         "dailyACInput": null,
-        "dataTime": "2026-11-28T16:16:39.000+00:00",
-        "plantLocalTime": "2026-11-28 17:16:39",
+        "dataTime": "2026-11-28T16:21:39.000+00:00",
+        "plantLocalTime": "2026-11-28 17:21:39",
         "deviceSn": "HL1060L1303211",
         "registerNo": "SNRCB7UQBU",
         "acCurrent1": 0,
-        "acVoltage1": 241.2,
+        "acVoltage1": 240.5,
         "acCurrent2": null,
         "acCurrent3": null,
         "acVoltage2": null,
@@ -38,10 +38,10 @@
         "dailyYield": 2.8,
         "totalYield": 9426,
         "mpptMap": {
-          "MPPT2Voltage": 319,
+          "MPPT2Voltage": 87.4,
           "MPPT1Current": 0,
           "MPPT2Current": 0,
-          "MPPT1Voltage": 161.9,
+          "MPPT1Voltage": 0,
           "MPPT1Power": 0,
           "MPPT2Power": 0
         },
@@ -64,20 +64,20 @@
         "totalReactivePower": null,
         "totalActivePower": null,
         "MPPTTotalInputPower": 0,
-        "acFrequency1": 50.03,
+        "acFrequency1": 49.98,
         "acFrequency2": null,
         "acFrequency3": null,
-        "gridPower": -271
+        "gridPower": -256
       }
     ],
-    "traceId": "9280032f-e884-454e-8102-ff5a35806a49.1795882802735"
+    "traceId": "04c34d54-37cd-45fd-ae35-5e8c2a4f35bc.1795883101792"
   },
   "battery": {
     "code": 10000,
     "result": [
       {
-        "dataTime": "2026-11-28T16:16:39.000+00:00",
-        "plantLocalTime": "2026-11-28 17:16:39",
+        "dataTime": "2026-11-28T16:21:39.000+00:00",
+        "plantLocalTime": "2026-11-28 17:21:39",
         "deviceSn": "20H380E1110222",
         "registerNo": "SNRCB7UQBU",
         "deviceStatus": null,
@@ -93,6 +93,6 @@
         "batteryRemainings": 0.5
       }
     ],
-    "traceId": "52dd9d68-6069-4519-96e2-ea0f46b1fd30.1795882802908"
+    "traceId": "07a9c69b-cb49-459e-b64b-486c0c8106a9.1795883101929"
   }
 }
